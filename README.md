@@ -1,4 +1,4 @@
 # Chushki / Pappers
 # Contributors
--Pesho
--Micheto
+- Pesho
+- Micheto
